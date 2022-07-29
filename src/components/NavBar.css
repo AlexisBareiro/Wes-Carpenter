@@ -1,0 +1,28 @@
+.nav-bar {
+    background-color: rgb(9, 9, 15);
+}
+
+.nav-menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.wes {
+    margin-right: auto;
+}
+
+.nav-menu a {
+    max-width: 100;
+    margin: 0% right;
+    display: block;
+    text-align: center;
+    color: rgb(243, 49, 49);   
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 1rem;
+}
+
+.nav-menu a:hover {
+    background-color: rgb(26, 27, 44);
+}
