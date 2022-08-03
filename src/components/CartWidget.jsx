@@ -1,8 +1,9 @@
 import React from "react";
+import CartOutLineIcon from 'mdi-react/CartOutlineIcon'
 
 function CartWidget() {
     return (
-        <img src="https://image.emojipng.com/837/3272837.jpg" alt="Carrito"/>
+        <CartOutLineIcon/>
     )
 }
 

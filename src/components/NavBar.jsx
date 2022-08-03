@@ -11,7 +11,7 @@ function NavBar() {
                 <a href="">Colleción</a>
                 <a href="">Documentales</a>
                 <a href="">Sobre nosotros</a>
-                <CartWidget greetings="wow"/>
+                <a><CartWidget/></a>
             </nav>
         </div>
     )
