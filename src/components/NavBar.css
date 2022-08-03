@@ -26,3 +26,6 @@
 .nav-menu a:hover {
     background-color: rgb(26, 27, 44);
 }
+img {
+    height: 3rem;
+}

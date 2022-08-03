@@ -1,5 +1,6 @@
 import "./NavBar.css";
 import React from "react";
+import CartWidget from "./CartWidget";
 
 function NavBar() {
     return(
@@ -10,6 +11,7 @@ function NavBar() {
                 <a href="">Colleción</a>
                 <a href="">Documentales</a>
                 <a href="">Sobre nosotros</a>
+                <CartWidget greetings="wow"/>
             </nav>
         </div>
     )
